@@ -1,0 +1,13 @@
+To run the code
+
+Place this python file inside input folder
+
+python ml_proj_agh170001.py
+
+This python file should be present inside a directory called input
+
+The other folders needed in this directory are 
+
+   '../input/embeddings/glove.840B.300d/glove.840B.300d.txt'
+   '../input/embeddings/paragram_300_sl999/paragram_300_sl999.txt'
+   '../input/embeddings/wiki-news-300d-1M/wiki-news-300d-1M.vec'
